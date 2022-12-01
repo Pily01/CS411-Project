@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "@react-spring/web": "^9.5.5",
     "firebase": "^9.14.0",
-    "react-router-dom": "^6.4.4"
+    "react-router-dom": "^6.4.4",
+    "react-tinder-card": "^1.6.2"
   }
 }
